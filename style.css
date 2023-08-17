@@ -20,15 +20,14 @@
 }
 @keyframes block{
     0%{left:400px}
-    100%{left: -50px}
+    100%{left:-50px}
 }
 #hole{
     width: 50px;
     height: 150px;
-    background-color:  red;
+    background-color: white;
     position: relative;
     left: 400px;
     top: -500px;
     animation: block 2s infinite linear; 
-
 }
